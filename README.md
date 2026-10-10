@@ -5,8 +5,6 @@
 
 Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for personal AI agents to discover companies, obtain user-authorized access, and work through websites, APIs, or company agents.
 
-This is an **unofficial community list**, unaffiliated with Sierra or Meta. The Awesome badge identifies the list format; it does not imply endorsement or inclusion in the upstream Awesome index.
-
 **Current specification:** Draft 0.1, updated October 9, 2026; checked October 10, 2026. It may change incompatibly before a stable release. Design partners are not automatically live implementations.
 
 ## Contents
@@ -14,6 +12,7 @@ This is an **unofficial community list**, unaffiliated with Sierra or Meta. The 
 - [Official Resources](#official-resources)
 - [Introductions](#introductions)
 - [Developer Guides](#developer-guides)
+- [Community SDKs and Integrations](#community-sdks-and-integrations)
 - [Community Demos](#community-demos)
 - [Related Protocols](#related-protocols)
 
@@ -35,6 +34,11 @@ These are official documents for the draft, not evidence of deployed features.
 - [Implementation Guides](https://personalagentprotocol.org/docs/guides) - Recommended practices for personal agents and companies, including secrets, metadata fetching, retries, and token handling.
 - [Extensions](https://personalagentprotocol.org/docs/extensions) - Explains how optional extensions are advertised and versioned separately from the core protocol.
 - [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Optional version 1 extension for proposing, approving, confirming, and tracking actions across channels; part of the draft.
+
+## Community SDKs and Integrations
+
+- [Datalayer Personal Agent Protocol SDKs](https://github.com/datalayer/personal-agent-protocol) - Community Python and TypeScript SDKs targeting Draft 0.1, with discovery, protocol models, and signed-out session flows; conversations, full sign-in flows, and Operations execution are not yet implemented.
+- [pi-poppy](https://github.com/richardanaya/pi-poppy) - Community Draft 0.1 extension for the Pi coding agent, with sessions, conversations, API and MCP access, operation approvals, and local examples; its default client metadata is served locally and cannot be fetched by remote companies.
 
 ## Community Demos
 
