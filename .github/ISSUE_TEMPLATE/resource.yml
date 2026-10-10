@@ -1,0 +1,39 @@
+name: Submit a resource
+description: Suggest a verified Poppy / Personal Agent Protocol resource.
+title: "Add: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      description: Canonical HTTPS link to the resource.
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: An existing README category, or explain why a new one is useful.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Suggested description
+      description: One short factual sentence explaining why this resource is useful.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence of relevance
+      description: Link to content or code demonstrating relevance to PAP. State whether it is official, community-built, a demo, a proposal, or a separate related protocol, and identify the supported draft/version where applicable.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your connection to the resource
+      description: Disclose any affiliation, or write "None".
+    validations:
+      required: true
