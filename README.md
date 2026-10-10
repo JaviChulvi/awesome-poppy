@@ -5,8 +5,6 @@
 
 Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for personal AI agents to discover companies, obtain user-authorized access, and work through websites, APIs, or company agents.
 
-This is an **unofficial community list**, unaffiliated with Sierra or Meta. The Awesome badge identifies the list format; it does not imply endorsement or inclusion in the upstream Awesome index.
-
 **Current specification:** Draft 0.1, updated October 9, 2026; checked October 10, 2026. It may change incompatibly before a stable release. Design partners are not automatically live implementations.
 
 ## Contents
