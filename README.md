@@ -39,6 +39,7 @@ These are official documents for the draft, not evidence of deployed features.
 
 - [Datalayer Personal Agent Protocol SDKs](https://github.com/datalayer/personal-agent-protocol) - Community Python and TypeScript SDKs targeting Draft 0.1, with discovery, protocol models, and signed-out session flows; conversations, full sign-in flows, and Operations execution are not yet implemented.
 - [pi-poppy](https://github.com/richardanaya/pi-poppy) - Community Draft 0.1 extension for the Pi coding agent, with sessions, conversations, API and MCP access, operation approvals, and local examples; its default client metadata is served locally and cannot be fetched by remote companies.
+- [Poppyseed](https://github.com/akshay5995/poppyseed) - Early-stage community TypeScript implementation of Draft 0.1, with a Next.js adapter, OAuth and DPoP, MCP and OpenAPI tools, conversations, and operation approvals.
 
 ## Community Demos
 
