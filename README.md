@@ -14,6 +14,7 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 - [Developer Guides](#developer-guides)
 - [Community SDKs and Integrations](#community-sdks-and-integrations)
 - [Community Demos](#community-demos)
+- [Developer Tools](#developer-tools)
 - [Related Protocols](#related-protocols)
 
 ## Official Resources
@@ -44,6 +45,10 @@ These are official documents for the draft, not evidence of deployed features.
 ## Community Demos
 
 - [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Community two-Worker demo of discovery, direct sign-in, conversations, and a simulated jacket exchange; uses a synthetic account and is not a full conformance suite.
+
+## Developer Tools
+
+- [PAP Checker](https://papchecker.com) - Community web checker for Poppy Draft 0.1 discovery, OAuth metadata, OpenAPI descriptions, and MCP resource metadata, with per-rule reports and a directory of sites publishing `poppy.json`.
 
 ## Related Protocols
 
