@@ -48,7 +48,7 @@ These are official documents for the draft, not evidence of deployed features.
 
 ## Developer Tools
 
-- [PAP Checker](https://papchecker.com) - Community web checker that tests a domain's `poppy.json` and issuer metadata against Draft 0.1 (discovery, sign-in, scopes, routes and extensions) and lists the sites that publish the file; reads public documents only.
+- [PAP Checker](https://papchecker.com) - Community web checker for Poppy Draft 0.1 discovery, OAuth metadata, OpenAPI descriptions, and MCP resource metadata, with per-rule reports and a directory of sites publishing `poppy.json`.
 
 ## Related Protocols
 
