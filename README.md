@@ -49,6 +49,7 @@ These are official documents for the draft, not evidence of deployed features.
 ## Developer Tools
 
 - [PAP Checker](https://papchecker.com) - Community web checker for Poppy Draft 0.1 discovery, OAuth metadata, OpenAPI descriptions, and MCP resource metadata, with per-rule reports and a directory of sites publishing `poppy.json`.
+- [poppy-validator](https://github.com/tusharck/poppy-validator) - Unofficial Python CLI for Poppy Draft 0.1 discovery documents, with local-file and live-URL checks, JSON Schema validation, OAuth metadata cross-checks, and JSON reports for CI.
 
 ## Related Protocols
 
