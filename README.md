@@ -46,6 +46,7 @@ These are official documents for the draft, not evidence of deployed features.
 ## Community Demos
 
 - [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Community two-Worker demo of discovery, direct sign-in, conversations, and a simulated jacket exchange; uses a synthetic account and is not a full conformance suite.
+- [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Community photo-printing example targeting Draft 0.1, with discovery, DPoP sessions, OpenAPI, and Operations approvals; includes an Agent Sandbox with simulated payment and fulfillment.
 
 ## Developer Tools
 
