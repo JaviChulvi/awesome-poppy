@@ -23,6 +23,7 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 - [Protocol Overview](https://personalagentprotocol.org/docs/overview) - Explains the goals, access controls, and design principles.
 - [Specification](https://personalagentprotocol.org/docs/spec) - Authoritative Draft 0.1 covering discovery, sessions, authorization, web browsing, APIs, and conversations.
 - [Open Topics](https://personalagentprotocol.org/docs/open-topics) - Tracks areas the draft does not yet cover, including payments, push notifications, and attachments.
+- [Official Poppy Repository](https://github.com/personal-agent-protocol/personal-agent-protocol) - Source for the specification and documentation website, with issue tracking and revision history; does not implement the protocol APIs.
 
 ## Introductions
 
