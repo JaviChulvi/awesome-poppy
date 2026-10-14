@@ -32,7 +32,7 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 
 ## Development and Design Partners
 
-[Sierra's launch announcement](https://sierra.ai/blog/introducing-personal-agent-protocol) identifies Meta and Sierra as developing Poppy with industry partners. The [official design-partner roster](https://personalagentprotocol.org/docs/path-to-1#design-partners), checked October 15, 2026, lists the following participants by role. Participation does not establish a live implementation or a specific code contribution; this covers publicly listed partners, not every individual or community contributor.
+[Sierra's launch announcement](https://sierra.ai/blog/introducing-personal-agent-protocol) identifies Meta and Sierra as developing Poppy with industry partners. The [official design-partner roster](https://personalagentprotocol.org/docs/path-to-1#partners), checked October 15, 2026, lists the following participants by role. Participation does not establish a live implementation or a specific code contribution; this covers publicly listed partners, not every individual or community contributor.
 
 | Official group       | Listed partners                                                                                                                                                                                                    |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
