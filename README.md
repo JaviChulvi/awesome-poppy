@@ -11,6 +11,7 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 
 - [Official Resources](#official-resources)
 - [Introductions](#introductions)
+- [Development and Design Partners](#development-and-design-partners)
 - [Developer Guides](#developer-guides)
 - [Community SDKs and Integrations](#community-sdks-and-integrations)
 - [Community Demos](#community-demos)
@@ -28,6 +29,16 @@ Poppy, the **Personal Agent Protocol (PAP)**, is a draft open protocol for perso
 ## Introductions
 
 - [Sharing a Draft of Personal Agent Protocol](https://sierra.ai/blog/poppy) - Sierra's explanation of the draft, including a report of the Rocket mortgage demo with Meta's Muse; the reference implementation is announced as forthcoming.
+
+## Development and Design Partners
+
+[Sierra's launch announcement](https://sierra.ai/blog/introducing-personal-agent-protocol) identifies Meta and Sierra as developing Poppy with industry partners. The [official design-partner roster](https://personalagentprotocol.org/docs/path-to-1#design-partners), checked October 15, 2026, lists the following participants by role. Participation does not establish a live implementation or a specific code contribution; this covers publicly listed partners, not every individual or community contributor.
+
+| Official group       | Listed partners                                                                                                                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Personal agents      | Instinct, Meta, OpenAI.                                                                                                                                                                                            |
+| Companies            | Bank of America, BBVA, Chime, Cigna, Comcast, DIRECTV, FOX, Gap Inc., GEICO, Hertz, Insurify, Liberty Mutual, Nordstrom, PayPal/Venmo, Rocket, SiriusXM, Synchrony, Target, United Airlines, Walmart, Wells Fargo. |
+| Technology providers | 1Password, Adyen, Atomic, Cloudflare, ElevenLabs, Genesys, Klaviyo, Mastercard, NiCE, Notion, Okta, OneSignal, Plaid, Shopify, Sierra, Stripe, Visa, Zapier, Zendesk.                                              |
 
 ## Developer Guides
 
