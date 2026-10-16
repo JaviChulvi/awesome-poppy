@@ -87,6 +87,12 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 
 </details>
 
+<a id="live-company-implementations"></a>
+
+**Live company implementations**: Companies serving Draft 0.1 at public endpoints; coverage varies by company.
+
+- [Stacktree](https://stacktr.ee/.well-known/poppy.json) - Publish an HTML page to a private link that opens with no account: signed-out Sessions publish a 24-hour page, and Direct Sign-In (`poppy:read`, `poppy:write`) keeps it on the User's account and shows who opened it; MCP and OpenAPI. Live since October 11, 2026; Device and Mediated Sign-In, conversations, and Operations are not implemented.
+
 <a id="related-protocols"></a>
 
 **Related protocols** — These have their own specifications; inclusion does not imply PAP compatibility.
