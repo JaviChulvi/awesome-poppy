@@ -27,7 +27,7 @@ body:
     id: evidence
     attributes:
       label: Evidence of relevance
-      description: Link to content or code demonstrating relevance to PAP. State whether it is official, community-built, a demo, a proposal, or a separate related protocol, and identify the supported draft/version where applicable.
+      description: Link to content or code demonstrating relevance to Poppy. State whether it is official, community-built, a demo, a proposal, or a separate related protocol, and identify the supported draft/version where applicable.
     validations:
       required: true
   - type: input
