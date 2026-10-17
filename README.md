@@ -3,9 +3,11 @@
 
 # Awesome Poppy 🌸 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Discover, build, and experiment with the **Personal Agent Protocol (PAP)**.
+Discover, build, and experiment with the **Personal Agent Protocol**.
 
 A curated collection of docs, SDKs, demos, and tools for personal AI agents to discover companies, obtain user-authorized access, and get things done.
+
+Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
 **Draft status:** Poppy is at Draft 0.1, checked October 15, 2026. It may change incompatibly before a stable release; community projects vary in coverage and maturity.
 
@@ -89,11 +91,11 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 
 <a id="related-protocols"></a>
 
-**Related protocols** — These have their own specifications; inclusion does not imply PAP compatibility.
+**Related protocols** — These have their own specifications; inclusion does not imply Poppy compatibility.
 
-- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - Connect AI applications to tools and data; the PAP draft includes MCP as an API interface companies can offer.
-- [Universal Commerce Protocol (UCP)](https://ucp.dev) - Explore commerce flows such as discovery and checkout; Sierra describes UCP as complementary to PAP's broader agent-to-company interactions.
-- [Personal Agent Consent & Trust (PACT)](https://github.com/openpactprotocol/openpactprotocol) - Explore a separate protocol built on A2A and OAuth, with schemas, a client, and a reference stack; it is not PAP or Poppy.
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - Connect AI applications to tools and data; the Poppy draft includes MCP as an API interface companies can offer.
+- [Universal Commerce Protocol (UCP)](https://ucp.dev) - Explore commerce flows such as discovery and checkout; Sierra describes UCP as complementary to Poppy's broader agent-to-company interactions.
+- [Personal Agent Consent & Trust (PACT)](https://github.com/openpactprotocol/openpactprotocol) - Explore a separate protocol built on A2A and OAuth, with schemas, a client, and a reference stack; it is not Poppy.
 
 ## Contributing
 

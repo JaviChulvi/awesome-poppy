@@ -10,7 +10,7 @@ Help keep this list small, accurate, and useful. Suggest a resource through a pu
 - Claims are supported by the linked content or inspectable code. State whether the resource is official, community-built, a demo, or a proposal.
 - Descriptions reflect the current specification. Name the draft or version when claiming implementation support; do not imply full compatibility from a project's name or README alone.
 
-Do not submit unrelated projects named Poppy or PAP, duplicates, affiliate links, generic AI directories, speculative projects without substantive content, or lists of design partners presented as live implementations. Keep PACT separate from PAP. Open topics and proposed extensions must not be described as implemented features.
+Do not submit unrelated projects named Poppy, duplicates, affiliate links, generic AI directories, speculative projects without substantive content, or lists of design partners presented as live implementations. Keep PACT separate from Poppy. Open topics and proposed extensions must not be described as implemented features.
 
 ## Entry Format
 
@@ -21,6 +21,8 @@ Use one bullet with a name, canonical HTTPS URL, and short factual description. 
 ```
 
 Start the description with a capital letter and end with a period. Explain what readers can learn or use; avoid marketing language, star counts, and claims such as "best" or "production-ready" without evidence.
+
+Refer to the protocol as Poppy or Personal Agent Protocol; keep third-party project names unchanged.
 
 ## Submitting a Change
 
