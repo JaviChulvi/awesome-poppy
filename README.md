@@ -40,6 +40,7 @@ New to Poppy? Start with the overview, then explore an example before diving int
 - [Implementation Guides](https://personalagentprotocol.org/docs/guides) - Apply recommended practices for metadata fetching, secrets, retries, and token handling.
 - [Extensions](https://personalagentprotocol.org/docs/extensions) - Learn how optional extensions are advertised and versioned separately from the core protocol.
 - [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the draft's optional version 1 flow for proposing, approving, confirming, and tracking actions.
+- [Official Poppy Implementation Skill](https://personalagentprotocol.org/kit/company) - Add company-side Poppy Draft 0.1 support with an official coding-agent skill, implementation milestones, JSON Schemas, and a validator; sign-in checks remain manual.
 
 <a id="community-sdks-and-integrations"></a>
 
