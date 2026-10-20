@@ -67,6 +67,7 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 
 - [PAP Checker](https://papchecker.com) - Check Draft 0.1 discovery, OAuth metadata, OpenAPI, and MCP resource metadata in a community web tool; browse per-rule reports and a directory of sites publishing `poppy.json`.
 - [poppy-validator](https://github.com/tusharck/poppy-validator) - Validate local files or live Draft 0.1 discovery URLs with an unofficial Python CLI, JSON Schema checks, OAuth metadata cross-checks, and JSON reports for CI.
+- [Allowfy Check](https://github.com/allowfy/allowfy-check) - Run 111 Draft 0.1 checks against a live domain: the official validator's checks plus Device Sign-In, Account Tokens, sign-out, and Operations extension flows, tested with a test Personal Agent; each result shows the request sent, the response, and the requirement quoted word for word, from a community Apache-2.0 CLI for CI or a browser version.
 
 ## 🌐 Explore the Ecosystem
 
