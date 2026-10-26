@@ -9,7 +9,7 @@ A curated collection of docs, SDKs, demos, and tools for personal AI agents to d
 
 Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
-**Draft status:** Poppy is at Draft 0.1, checked October 15, 2026. It may change incompatibly before a stable release; community projects vary in coverage and maturity.
+**Draft status:** Poppy's latest published version is Draft 0.2; Draft 0.3 is in progress, checked October 26, 2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
 
 ## Contents
 
@@ -36,19 +36,19 @@ New to Poppy? Start with the overview, then explore an example before diving int
 
 **Official documentation** — Start with the specification and implementation guides, then explore optional extensions.
 
-- [Specification](https://personalagentprotocol.org/docs/spec) - Read the authoritative Draft 0.1 requirements for discovery, sessions, authorization, web browsing, APIs, and conversations.
+- [Specification](https://personalagentprotocol.org/docs/spec) - Read the evolving Draft 0.3 requirements for discovery, sessions, authorization, web browsing, APIs, and conversations; the published [Draft 0.2](https://personalagentprotocol.org/docs/0.2/spec) remains available separately.
 - [Implementation Guides](https://personalagentprotocol.org/docs/guides) - Apply recommended practices for metadata fetching, secrets, retries, and token handling.
 - [Extensions](https://personalagentprotocol.org/docs/extensions) - Learn how optional extensions are advertised and versioned separately from the core protocol.
 - [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the draft's optional version 1 flow for proposing, approving, confirming, and tracking actions.
-- [Official Poppy Implementation Skill](https://personalagentprotocol.org/kit/company) - Add company-side Poppy Draft 0.1 support with an official coding-agent skill, implementation milestones, JSON Schemas, and a validator; sign-in checks remain manual.
+- [Official Poppy Implementation Skill](https://personalagentprotocol.org/kit/company) - Add company-side Poppy Draft 0.3 support with an official coding-agent skill, implementation milestones, JSON Schemas, and a validator; sign-in checks remain manual.
 
 <a id="community-sdks-and-integrations"></a>
 
 **Community SDKs and integrations** — Choose a starting point for your language or agent; check each project's supported flows.
 
-- [Datalayer Personal Agent Protocol SDKs](https://github.com/datalayer/personal-agent-protocol) - Community Python and TypeScript SDKs targeting Draft 0.1, with focused examples; Operations models exist, but a complete Operations workflow is not implemented.
+- [Datalayer Personal Agent Protocol SDKs](https://github.com/datalayer/personal-agent-protocol) - Community Python and TypeScript SDKs targeting the October 18, 2026 snapshot of Draft 0.2, with examples and Operations v1 clients and workflows.
 - [pi-poppy](https://github.com/richardanaya/pi-poppy) - Add Draft 0.1 sessions, conversations, API/MCP access, and operation approvals to the Pi coding agent; default client metadata is local and cannot be fetched by remote companies.
-- [Poppyseed](https://github.com/akshay5995/poppyseed) - Explore an early-stage TypeScript implementation with a Next.js adapter, OAuth/DPoP, MCP/OpenAPI tools, conversations, and operation approvals for Draft 0.1.
+- [Poppyseed](https://github.com/akshay5995/poppyseed) - Explore an early-stage TypeScript implementation targeting Draft 0.3, with a Next.js adapter, OAuth/DPoP, MCP/OpenAPI tools, conversations, and operation approvals.
 
 <a id="community-demos"></a>
 
@@ -56,8 +56,8 @@ New to Poppy? Start with the overview, then explore an example before diving int
 
 See the protocol in action through community examples. Demo flows do not establish full conformance.
 
-- [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Run a two-Worker example of discovery, direct sign-in, conversations, and a simulated jacket exchange using a synthetic account.
-- [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Explore photo ordering with Draft 0.1 discovery, DPoP sessions, OpenAPI, and Operations approvals; use the Agent Sandbox for simulated payment and fulfillment.
+- [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Run a two-Worker Draft 0.1 example of discovery, direct sign-in, conversations, and a simulated jacket exchange using a synthetic account.
+- [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Explore photo ordering with Draft 0.2 discovery, DPoP sessions, OpenAPI, and Operations approvals; use the sandbox for simulated payment and fulfillment.
 
 <a id="developer-tools"></a>
 
@@ -65,9 +65,9 @@ See the protocol in action through community examples. Demo flows do not establi
 
 Use a web checker for a quick look at published metadata, or a CLI for repeatable local and CI checks.
 
-- [PAP Checker](https://papchecker.com) - Check Draft 0.1 discovery, OAuth metadata, OpenAPI, and MCP resource metadata in a community web tool; browse per-rule reports and a directory of sites publishing `poppy.json`.
+- [PAP Checker](https://papchecker.com) - Check Draft 0.1 and 0.2 discovery, OAuth metadata, OpenAPI, and MCP resource metadata in a community web tool; browse per-rule reports and a directory of sites publishing `poppy.json`.
 - [poppy-validator](https://github.com/tusharck/poppy-validator) - Validate local files or live Draft 0.1 discovery URLs with an unofficial Python CLI, JSON Schema checks, OAuth metadata cross-checks, and JSON reports for CI.
-- [Allowfy Check](https://github.com/allowfy/allowfy-check) - Test live Draft 0.1 discovery, sessions, device sign-in, account tokens, sign-out, and Operations flows with a community CLI and per-check reports.
+- [Allowfy Check](https://github.com/allowfy/allowfy-check) - Test live Draft 0.2 discovery, sessions, device sign-in, account tokens, sign-out, and Operations flows with a community CLI and per-check reports.
 
 ## 🌐 Explore the Ecosystem
 
