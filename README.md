@@ -9,7 +9,7 @@ A curated collection of docs, SDKs, demos, and tools for personal AI agents to d
 
 Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
-**Draft status:** The official Poppy specification is Draft 0.3 (in progress), checked 26/10/2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
+**Draft status:** Poppy's latest published version is Draft 0.2; Draft 0.3 is in progress, checked October 26, 2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
 
 ## Contents
 
