@@ -13,14 +13,11 @@ Awesome Poppy is a community-maintained list, not an official Poppy resource. In
 
 ## Contents
 
-- [Awesome Poppy 🌸 ](#awesome-poppy--)
-  - [Contents](#contents)
-  - [🌱 Start Here](#-start-here)
-  - [🛠 Build with Poppy](#-build-with-poppy)
-  - [🎮 Try a Demo](#-try-a-demo)
-  - [🔎 Check Your Implementation](#-check-your-implementation)
-  - [🌐 Explore the Ecosystem](#-explore-the-ecosystem)
-  - [Contributing](#contributing)
+- [🌱 Start Here](#-start-here)
+- [🛠 Build with Poppy](#-build-with-poppy)
+- [🎮 Try a Demo](#-try-a-demo)
+- [🔎 Check Your Implementation](#-check-your-implementation)
+- [🌐 Explore the Ecosystem](#-explore-the-ecosystem)
 
 <a id="official-resources"></a>
 <a id="introductions"></a>
