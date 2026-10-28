@@ -49,8 +49,8 @@ New to Poppy? Start with the overview, then explore an example before diving int
 - [Datalayer Personal Agent Protocol SDKs](https://github.com/datalayer/personal-agent-protocol) - Community Python and TypeScript SDKs targeting the October 18, 2026 snapshot of Draft 0.2, with examples and Operations v1 clients and workflows.
 - [pi-poppy](https://github.com/richardanaya/pi-poppy) - Add Draft 0.1 sessions, conversations, API/MCP access, and operation approvals to the Pi coding agent; default client metadata is local and cannot be fetched by remote companies.
 - [Poppyseed](https://github.com/akshay5995/poppyseed) - Explore an early-stage TypeScript implementation targeting Draft 0.3, with a Next.js adapter, OAuth/DPoP, MCP/OpenAPI tools, conversations, and operation approvals.
-- [PoppyKit server](https://github.com/LMol-4/poppykit-server) - Explore an early community TypeScript server implementation built for Poppy Draft 0.2.
-- [PoppyKit client](https://github.com/LMol-4/poppykit-client) - Explore an early community TypeScript client implementation built for Poppy Draft 0.2.
+- [PoppyKit server](https://github.com/LMol-4/poppykit-server) - Explore an early community TypeScript server implementation built for Poppy Draft 0.3.
+- [PoppyKit client](https://github.com/LMol-4/poppykit-client) - Explore an early community TypeScript client implementation built for Poppy Draft 0.3.
 
 <a id="community-demos"></a>
 
