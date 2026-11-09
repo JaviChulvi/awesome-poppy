@@ -9,7 +9,7 @@ A curated collection of docs, SDKs, demos, and tools for personal AI agents to d
 
 Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
-**Draft status:** Poppy's latest published version is Draft 0.2; Draft 0.3 is in progress, checked October 26, 2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
+**Draft status:** Poppy's latest published version is 0.3; Draft 0.4 is in progress, checked November 10, 2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
 
 ## Contents
 
@@ -36,11 +36,11 @@ New to Poppy? Start with the overview, then explore an example before diving int
 
 **Official documentation** — Start with the specification and implementation guides, then explore optional extensions.
 
-- [Specification](https://personalagentprotocol.org/docs/spec) - Read the evolving Draft 0.3 requirements for discovery, sessions, authorization, web browsing, APIs, and conversations; the published [Draft 0.2](https://personalagentprotocol.org/docs/0.2/spec) remains available separately.
+- [Specification](https://personalagentprotocol.org/docs/spec) - Read the evolving Draft 0.4 requirements for discovery, sessions, authorization, web browsing, APIs, and conversations; the published [version 0.3](https://personalagentprotocol.org/docs/0.3/spec) remains available separately.
 - [Implementation Guides](https://personalagentprotocol.org/docs/guides) - Apply recommended practices for metadata fetching, secrets, retries, and token handling.
 - [Extensions](https://personalagentprotocol.org/docs/extensions) - Learn how optional extensions are advertised and versioned separately from the core protocol.
-- [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the draft's optional version 2 flow for approving exact action terms and retrying requests with protection against duplicate execution.
-- [Official Poppy Implementation Skill](https://personalagentprotocol.org/kit/company) - Add company-side Poppy Draft 0.3 support with an official coding-agent skill, implementation milestones, JSON Schemas, and a validator; sign-in checks remain manual.
+- [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the draft's optional version 3 flow for approving exact action terms and retrying requests with protection against duplicate execution.
+- [Official Company Implementation Kit](https://personalagentprotocol.org/kit/company) - Build company-side Poppy Draft 0.4 support with a coding-agent skill and validator; some requirements need manual review.
 
 <a id="community-sdks-and-integrations"></a>
 
@@ -76,7 +76,7 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 **Follow development** — Track the draft, source changes, and areas still being designed.
 
 - [Official Poppy Repository](https://github.com/personal-agent-protocol/personal-agent-protocol) - Browse the specification and documentation website source, revision history, and issues; this repository does not implement the protocol APIs.
-- [Open Topics](https://personalagentprotocol.org/docs/open-topics) - Follow draft gaps, including payments, push notifications, and attachments.
+- [Roadmap](https://personalagentprotocol.org/docs/roadmap) - Follow draft gaps, including payments, push notifications, and attachments.
 
 <a id="development-and-design-partners"></a>
 
