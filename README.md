@@ -9,7 +9,7 @@ A curated collection of docs, SDKs, demos, and tools for personal AI agents to d
 
 Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
-**Draft status:** Poppy's latest published version is 0.3; Draft 0.4 is in progress, checked November 10, 2026. See the [official changelog](https://personalagentprotocol.org/docs/changelog). Drafts may change incompatibly; community projects target different versions and vary in coverage and maturity.
+**Release status:** Sierra announced Poppy 1.0 on November 13, 2026. When checked that day, the official specification and [changelog](https://personalagentprotocol.org/docs/changelog) still labeled 1.0 as a draft. Community projects target different versions and vary in coverage and maturity.
 
 ## Contents
 
@@ -28,7 +28,7 @@ New to Poppy? Start with the overview, then explore an example before diving int
 
 - [Personal Agent Protocol](https://personalagentprotocol.org) - Explore the official home and interactive walkthroughs with fictional companies.
 - [Protocol Overview](https://personalagentprotocol.org/docs/overview) - Learn the goals, access controls, and design principles.
-- [Sharing a Draft of Personal Agent Protocol](https://sierra.ai/blog/poppy) - Read Sierra's draft announcement and its account of the Rocket mortgage demo with Meta's Muse.
+- [Releasing Personal Agent Protocol 1.0](https://sierra.ai/blog/releasing-poppy) - Read Sierra's release announcement, including its reports of Shopify's rollout, support in Meta's Muse, and new design partners.
 
 <a id="developer-guides"></a>
 
@@ -36,11 +36,12 @@ New to Poppy? Start with the overview, then explore an example before diving int
 
 **Official documentation** — Start with the specification and implementation guides, then explore optional extensions.
 
-- [Specification](https://personalagentprotocol.org/docs/spec) - Read the evolving Draft 0.4 requirements for discovery, sessions, authorization, web browsing, APIs, and conversations; the published [version 0.3](https://personalagentprotocol.org/docs/0.3/spec) remains available separately.
+- [Specification](https://personalagentprotocol.org/docs/1.0/spec) - Read the 1.0 specification for discovery, sessions, authorization, web browsing, APIs, and conversations.
 - [Implementation Guides](https://personalagentprotocol.org/docs/guides) - Apply recommended practices for metadata fetching, secrets, retries, and token handling.
 - [Extensions](https://personalagentprotocol.org/docs/extensions) - Learn how optional extensions are advertised and versioned separately from the core protocol.
-- [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the draft's optional version 3 flow for approving exact action terms and retrying requests with protection against duplicate execution.
-- [Official Company Implementation Kit](https://personalagentprotocol.org/kit/company) - Build company-side Poppy Draft 0.4 support with a coding-agent skill and validator; some requirements need manual review.
+- [Operations Extension](https://personalagentprotocol.org/docs/extensions/operations) - Follow the optional version 3 flow for approving exact action terms and retrying requests with protection against duplicate execution.
+- [Official Company Implementation Kit](https://personalagentprotocol.org/kit/company) - Build company-side Poppy Draft 1.0 support with a coding-agent skill and validator; some requirements need manual review.
+- [UCP Extension](https://personalagentprotocol.org/docs/1.0/extensions/ucp) - Use the optional version 1 extension to connect Poppy discovery and sign-in with UCP shopping, checkout, and conversations.
 
 <a id="community-sdks-and-integrations"></a>
 
@@ -73,32 +74,21 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 
 ## 🌐 Explore the Ecosystem
 
-**Follow development** — Track the draft, source changes, and areas still being designed.
+**Follow development** — Track the protocol, source changes, and open design work.
 
 - [Official Poppy Repository](https://github.com/personal-agent-protocol/personal-agent-protocol) - Browse the specification and documentation website source, revision history, and issues; this repository does not implement the protocol APIs.
-- [Roadmap](https://personalagentprotocol.org/docs/roadmap) - Follow draft gaps, including payments, push notifications, and attachments.
+- [Roadmap](https://personalagentprotocol.org/docs/roadmap) - Follow open work on payment approvals, push notifications, attachments, and self-hosted personal agents.
 
 <a id="development-and-design-partners"></a>
 
-**Development and design partners** — [Sierra's launch announcement](https://sierra.ai/blog/introducing-personal-agent-protocol) identifies Meta and Sierra as developing Poppy with industry partners. The [official roster](https://personalagentprotocol.org/docs/path-to-1#partners), checked October 15, 2026, lists partners by role. Participation does not establish a live implementation or a specific code contribution, and this roster does not cover every community contributor.
-
-<details>
-<summary>View development and design partners</summary>
-
-| Official group       | Listed partners                                                                                                                                                                                                    |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Personal agents      | Instinct, Meta, OpenAI.                                                                                                                                                                                            |
-| Companies            | Bank of America, BBVA, Chime, Cigna, Comcast, DIRECTV, FOX, Gap Inc., GEICO, Hertz, Insurify, Liberty Mutual, Nordstrom, PayPal/Venmo, Rocket, SiriusXM, Synchrony, Target, United Airlines, Walmart, Wells Fargo. |
-| Technology providers | 1Password, Adyen, Atomic, Cloudflare, ElevenLabs, Genesys, Klaviyo, Mastercard, NiCE, Notion, Okta, OneSignal, Plaid, Shopify, Sierra, Stripe, Visa, Zapier, Zendesk.                                              |
-
-</details>
+**Development and design partners** — The [official roster](https://personalagentprotocol.org/docs/path-to-1#partners) lists participating personal agents and companies. Participation does not establish a live implementation or a specific code contribution, and this roster does not cover every community contributor.
 
 <a id="related-protocols"></a>
 
 **Related protocols** — These have their own specifications; inclusion does not imply Poppy compatibility.
 
-- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - Connect AI applications to tools and data; the Poppy draft includes MCP as an API interface companies can offer.
-- [Universal Commerce Protocol (UCP)](https://ucp.dev) - Explore commerce flows such as discovery and checkout; Sierra describes UCP as complementary to Poppy's broader agent-to-company interactions.
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - Connect AI applications to tools and data; Poppy includes MCP as an API interface companies can offer.
+- [Universal Commerce Protocol (UCP)](https://ucp.dev) - Explore the commerce protocol used by Poppy's UCP extension for catalog search, carts, and checkout.
 - [Personal Agent Consent & Trust (PACT)](https://github.com/openpactprotocol/openpactprotocol) - Explore a separate protocol built on A2A and OAuth, with schemas, a client, and a reference stack; it is not Poppy.
 
 ## Contributing
