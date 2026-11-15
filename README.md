@@ -105,4 +105,3 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 ## Contributing
 
 Found something useful? Read [CONTRIBUTING.md](CONTRIBUTING.md), then open a pull request or use the resource submission issue template. Small, verified additions and corrections are welcome.
-
