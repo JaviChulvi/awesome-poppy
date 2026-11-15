@@ -52,6 +52,7 @@ New to Poppy? Start with the overview, then explore an example before diving int
 - [Poppyseed](https://github.com/akshay5995/poppyseed) - Explore a community TypeScript implementation targeting a Draft 0.3 snapshot, with a Next.js adapter, OAuth/DPoP, MCP/OpenAPI tools, conversations, and Operations v1.
 - [PoppyKit server](https://github.com/LMol-4/poppykit-server) - Explore a community TypeScript server implementation built for a Poppy Draft 0.3 snapshot.
 - [PoppyKit client](https://github.com/LMol-4/poppykit-client) - Explore a community TypeScript client implementation built for a Poppy Draft 0.3 snapshot.
+- [poppy-go](https://github.com/ofershap/poppy-go) - Verify Poppy Draft 1.0 discovery documents, Poppy-Session headers with delegated keys, and RFC 7523 client assertions from Go services, standard library only.
 
 <a id="community-demos"></a>
 
@@ -104,3 +105,4 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 ## Contributing
 
 Found something useful? Read [CONTRIBUTING.md](CONTRIBUTING.md), then open a pull request or use the resource submission issue template. Small, verified additions and corrections are welcome.
+
