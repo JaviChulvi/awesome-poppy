@@ -62,6 +62,7 @@ See the protocol in action through community examples. Demo flows do not establi
 
 - [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Run a two-Worker demo of discovery, direct sign-in, conversations, and synthetic jacket exchanges targeting a November 8, 2026 Draft 0.4 snapshot; its hosted receiver still advertises 0.1.
 - [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Explore photo ordering with Poppy 0.4, signed Session headers, OpenAPI, and Operations v3; its sandbox simulates payment and fulfillment.
+- [VTC](https://vtc.com/.well-known/poppy.json) - Discover a live community platform on Poppy 1.0, with Direct Sign-In through a platform issuer, per-Space companies, and a DPoP-bound MCP server for signed-in member read access.
 
 <a id="developer-tools"></a>
 
