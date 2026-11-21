@@ -65,6 +65,7 @@ See the protocol in action through community demos and live services. These exam
 - [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Explore photo ordering with Poppy 0.4, signed Session headers, OpenAPI, and Operations v3; its sandbox simulates payment and fulfillment.
 - [Community Demos](https://personalagentprotocol.org/docs/demos) - Explore community-built demos listed in the official documentation; listing does not imply official review or endorsement.
 - [VTC](https://mcp.vtc.com/explorer) - Explore a live community platform advertising [Poppy 1.0 discovery](https://vtc.com/.well-known/poppy.json) and signed-in MCP access to member data.
+- [Zero Slop](https://github.com/manavmishra/ZeroSlop) - Explore an open-source writing tool advertising [Poppy 1.0 discovery](https://zero-slop.ai/.well-known/poppy.json) for its hosted MCP editing service.
 
 <a id="developer-tools"></a>
 
