@@ -15,7 +15,7 @@ Awesome Poppy is a community-maintained list, not an official Poppy resource. In
 
 - [🌱 Start Here](#-start-here)
 - [🛠 Build with Poppy](#-build-with-poppy)
-- [🎮 Try a Demo](#-try-a-demo)
+- [🎮 Try Poppy Examples](#-try-poppy-examples)
 - [🔎 Check Your Implementation](#-check-your-implementation)
 - [🌐 Explore the Ecosystem](#-explore-the-ecosystem)
 
@@ -55,14 +55,16 @@ New to Poppy? Start with the overview, then explore an example before diving int
 - [poppy-go](https://github.com/ofershap/poppy-go) - Verify Poppy Draft 1.0 discovery documents, Poppy-Session headers with delegated keys, and RFC 7523 client assertions from Go services, standard library only.
 
 <a id="community-demos"></a>
+<a id="-try-a-demo"></a>
 
-## 🎮 Try a Demo
+## 🎮 Try Poppy Examples
 
-See the protocol in action through community examples. Demo flows do not establish full conformance.
+See the protocol in action through community demos and live services. These examples do not establish full conformance.
 
 - [Poppy on Cloudflare Workers](https://github.com/irvinebroque/poppy-demo) - Run a two-Worker demo of discovery, direct sign-in, conversations, and synthetic jacket exchanges targeting a November 8, 2026 Draft 0.4 snapshot; its hosted receiver still advertises 0.1.
 - [Print with Poppy](https://github.com/spenciefy/print-with-poppy) - Explore photo ordering with Poppy 0.4, signed Session headers, OpenAPI, and Operations v3; its sandbox simulates payment and fulfillment.
 - [Community Demos](https://personalagentprotocol.org/docs/demos) - Explore community-built demos listed in the official documentation; listing does not imply official review or endorsement.
+- [VTC](https://mcp.vtc.com/explorer) - Explore a live community platform advertising [Poppy 1.0 discovery](https://vtc.com/.well-known/poppy.json) and signed-in MCP access to member data.
 
 <a id="developer-tools"></a>
 
@@ -75,10 +77,6 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 - [Allowfy Check](https://github.com/allowfy/allowfy-check) - Test live Draft 0.2 discovery, sessions, device sign-in, account tokens, sign-out, and Operations flows with a community CLI and per-check reports.
 
 ## 🌐 Explore the Ecosystem
-
-**Live community implementations** — Explore Poppy integrations in live services.
-
-- [VTC](https://mcp.vtc.com/explorer) - Explore a live community platform advertising [Poppy 1.0 discovery](https://vtc.com/.well-known/poppy.json) and signed-in MCP access to member data.
 
 **Follow development** — Track the protocol, source changes, and open design work.
 
