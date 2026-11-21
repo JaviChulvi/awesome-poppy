@@ -73,7 +73,7 @@ See the protocol in action through community demos and live services. These exam
 
 Use a web checker for a quick look at published metadata, or a CLI for repeatable local and CI checks.
 
-- [PAP Checker](https://papchecker.com) - Check public metadata for versions 0.1–0.4 and the November 11, 2026 Draft 1.0 snapshot in a community web tool, with per-rule reports and a `poppy.json` directory; no live sessions are tested.
+- [PAP Checker](https://papchecker.com) - Check public metadata for Poppy versions 0.1–1.0 in a community web tool, with per-rule reports and a `poppy.json` directory; no live sessions are tested.
 - [poppy-validator](https://github.com/tusharck/poppy-validator) - Validate local files or live Draft 0.1 discovery URLs with an unofficial Python CLI, JSON Schema checks, OAuth metadata cross-checks, and JSON reports for CI.
 - [Allowfy Check](https://github.com/allowfy/allowfy-check) - Test live Draft 0.2 discovery, sessions, device sign-in, account tokens, sign-out, and Operations flows with a community CLI and per-check reports.
 - [Poppy Simulator](https://poppy-simulator.stacktr.ee) - Test Poppy 1.0 and Draft 0.2–0.4 company implementations with a hosted community agent, inspect requests, and try supported sign-in flows with a real account; the source is not public.
