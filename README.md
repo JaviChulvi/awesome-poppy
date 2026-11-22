@@ -9,7 +9,7 @@ A curated collection of docs, SDKs, demos, and tools for personal AI agents to d
 
 Awesome Poppy is a community-maintained list, not an official Poppy resource. Inclusion does not imply review or endorsement by the Poppy authors.
 
-**Release status:** Poppy 1.0 was published on November 14, 2026. Draft 1.1 is in progress. See the [changelog](https://personalagentprotocol.org/docs/changelog) for current status. Community projects target different versions and draft snapshots, and vary in coverage and maturity.
+**Release status:** Poppy 1.0 was published on November 14, 2026. Draft 1.1 is in progress; the authors advise building against 1.0 until the draft is published. See the [changelog](https://personalagentprotocol.org/docs/changelog) for current status. Community projects target different versions and draft snapshots, and vary in coverage and maturity.
 
 ## Contents
 
@@ -29,6 +29,7 @@ New to Poppy? Start with the overview, then explore an example before diving int
 - [Personal Agent Protocol](https://personalagentprotocol.org) - Explore the official home and interactive walkthroughs with fictional companies.
 - [Protocol Introduction](https://personalagentprotocol.org/docs/introduction) - Learn the goals, access controls, and design principles.
 - [Releasing Personal Agent Protocol 1.0](https://sierra.ai/blog/releasing-poppy) - Read Sierra's release announcement, including its reports of Shopify's rollout, support in Meta's Muse, and new design partners.
+- [Official Video Tutorials](https://personalagentprotocol.org/docs/videos) - Watch short introductions to discovery, sign-in, conversations, MCP, and browsing; videos may lag behind the specification.
 
 <a id="developer-guides"></a>
 
