@@ -68,6 +68,7 @@ See the protocol in action through community demos and live services. These exam
 - [VTC](https://mcp.vtc.com/explorer) - Explore a live community platform advertising [Poppy 1.0 discovery](https://vtc.com/.well-known/poppy.json) and signed-in MCP access to member data.
 - [Zero Slop](https://github.com/manavmishra/ZeroSlop) - Explore an open-source writing tool advertising [Poppy 1.0 discovery](https://zero-slop.ai/.well-known/poppy.json) for its hosted MCP editing service.
 - [Poppy Lab](https://github.com/mpuig/poppylab) - Try a community [Poppy 1.0 playground](https://poppylab.dev) with fictional companies, conversations, and Operations v3 approvals.
+- [Holla](https://useholla.com/) - Explore [Poppy 1.0 discovery](https://useholla.com/.well-known/poppy.json) for Singapore parking lookups by verified agents and [voucher search](https://useholla.com/poppy/vouchers?q=GrabFood) that returns links to buy on Holla.
 
 <a id="developer-tools"></a>
 
