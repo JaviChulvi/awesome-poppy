@@ -67,6 +67,7 @@ See the protocol in action through community demos and live services. These exam
 - [Community Demos](https://personalagentprotocol.org/docs/demos) - Explore community-built demos listed in the official documentation; listing does not imply official review or endorsement.
 - [VTC](https://mcp.vtc.com/explorer) - Explore a live community platform advertising [Poppy 1.0 discovery](https://vtc.com/.well-known/poppy.json) and signed-in MCP access to member data.
 - [Zero Slop](https://github.com/manavmishra/ZeroSlop) - Explore an open-source writing tool advertising [Poppy 1.0 discovery](https://zero-slop.ai/.well-known/poppy.json) for its hosted MCP editing service.
+- [Holla](https://useholla.com/checkpoint-traffic) - Explore a live Singapore travel service advertising [Poppy 1.0 discovery](https://useholla.com/.well-known/poppy.json) with OpenAPI lookups for Woodlands and Tuas traffic estimates, EV chargers, travel eSIMs, and vouchers.
 
 <a id="developer-tools"></a>
 
