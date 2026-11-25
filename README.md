@@ -84,7 +84,7 @@ Use a web checker for a quick look at published metadata, or a CLI for repeatabl
 **Follow development** — Track the protocol, source changes, and open design work.
 
 - [Official Poppy Repository](https://github.com/personal-agent-protocol/personal-agent-protocol) - Browse the specification, documentation website, company implementation kit, revision history, and issues.
-- [Roadmap](https://personalagentprotocol.org/docs/introduction#open-topics) - Follow open work on signed approvals, payments, push notifications, delegated sign-in, attachments, and self-hosted personal agents.
+- [Roadmap](https://personalagentprotocol.org/docs/introduction#open-topics) - Follow open protocol work and the planned removal of transitional Mediated Sign-In on March 17, 2027; Direct Sign-In is preferred.
 
 <a id="development-and-design-partners"></a>
 
